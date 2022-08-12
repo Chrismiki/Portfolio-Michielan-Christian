@@ -168,7 +168,7 @@ a {
     display: block;
     max-width: 8rem;
     height: 2px;
-    background-color: rgb(91, 91, 191);
+    background-color: #004AAD;
     margin: 0.5rem auto;
    
 
@@ -190,7 +190,7 @@ a {
     display: block;
     width: 13rem;
     height: 2px;
-    background-color: rgb(91, 91, 191);
+    background-color:#004AAD;
     margin: 0.5rem auto;
    
 
@@ -214,13 +214,13 @@ a {
 
 
 .bg-social {
-    background-color: rgb(74, 109, 206);
+    background-color: #0275D8;
 }
 
 
 
 .text-center-foot {
-    background-color: rgb(4, 4, 128);
+    background-color: #004AAD;
     color: #fff;
 }
 
