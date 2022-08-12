@@ -75,7 +75,7 @@ a {
 
 .img-fluid {
     border-radius: 0.5rem;
-    box-shadow: 0.2rem 0.3rem 0.2rem rgb(58, 39, 180);
+    box-shadow: 0.2rem 0.3rem 0.2rem #004AAD;
 }
 
 .about-me-title {
@@ -89,7 +89,7 @@ a {
     display: block;
     width: 11rem;
     height: 2px;
-    background-color: rgb(91, 91, 191);
+    background-color:#004AAD;
     margin-top: 0.5rem;
     
 }
@@ -124,7 +124,7 @@ a {
     display: block;
     max-width: 10rem;
     height: 2px;
-    background-color: rgb(91, 91, 191);
+    background-color:#004AAD;
     margin: 0.5rem auto;
    
 
@@ -139,7 +139,7 @@ a {
 
 .btn-secondary {
     background-color: #02a16c !important;
-    border: #00A36C !important;
+    border: #02a16c !important;
     transform: scale(1);
     transition: trasform 250ms;
 
@@ -153,7 +153,7 @@ a {
 
 
 .card {
-    box-shadow: 0rem 0rem 0.3rem rgb(86, 155, 219); 
+    box-shadow: 0rem 0rem 0.3rem #38B6FF; 
 }
 
 
